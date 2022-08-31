@@ -54,7 +54,7 @@ public static void main(String[] args) {
 	}
 
 	String job = "mechanic";
-	String   = "j";
+	
 }
 }
 
